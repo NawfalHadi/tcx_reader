@@ -1,2 +1,7 @@
-# tcx_reader
-reads tcx file with python, so i can capture my jogging personal best
+# TCX Reader
+your jogging track reader
+
+requirment : 
+- need jogging tracker(Google Fit) for record the track
+- export the activities with Google Takeout
+
